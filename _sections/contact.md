@@ -6,4 +6,4 @@ published: true
 ---
 Let's get in touch!
 
-loic [dot] herbelot [at] free.fr
+[loic dot herbelot at free.fr](mailto:loic [dot] herbelot [at] free.fr)
