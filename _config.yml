@@ -1,25 +1,20 @@
-title: Chris Bobbe
-subtitle: Web Developer
-description: Website and portfolio of Chris Bobbe, front-end web developer.
+title: Loïc Herbelot
+subtitle: Data Scientist
+description: My website and portfolio.
 
-author: Chris Bobbe
+author: Loïc Herbelot
 email: csbobbe@gmail.com
 avatar: assets/images/avatar.jpg
 
 baseurl: ""
-url: "https://chrisbobbe.github.io"
+url: "https://loich.github.io"
 
 # Social settings
-facebook_url: https://www.facebook.com/chris.bobbe
-github_url: https://github.com/chrisbobbe
-linkedin_url: https://www.linkedin.com/in/chrisbobbe1995/
-twitter_url: https://twitter.com/chrisbobbe
+github_url: https://github.com/LoiH
+linkedin_url: https://www.linkedin.com/in/herbelot/
 
-# SEO settiongs
-google_analytics: UA-112211352-1
 
 # Build settings
-remote_theme: chrisbobbe/jekyll-theme-prologue
 plugins:
   - jekyll-sitemap
   - jekyll-feed
@@ -27,4 +22,4 @@ plugins:
 # Necessary for Prologue theme:
 collections: [sections]
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-prologue
