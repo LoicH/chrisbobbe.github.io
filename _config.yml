@@ -14,11 +14,10 @@ linkedin_url: https://www.linkedin.com/in/herbelot/
 
 
 # Build settings
+remote_theme: chrisbobbe/jekyll-theme-prologue
 plugins:
   - jekyll-sitemap
   - jekyll-feed
 
 # Necessary for Prologue theme:
 collections: [sections]
-
-theme: jekyll-theme-prologue
