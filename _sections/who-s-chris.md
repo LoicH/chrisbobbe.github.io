@@ -1,11 +1,15 @@
 ---
-title: Who's Chris?
+title: Who am I?
 icon: fa-question
 order: 2
+published: true
 ---
+I'm a data science student, I've finished my studies and currently in my internship.
 
-<script type="text/javascript" src="assets/js/gem-download-count.js" defer></script>
+I did my Engineering Master in [Télécom ParisTech](https://www.telecom-paristech.fr/eng/international-studies/master-of-engineering/postgraduate-program/data-science.html) and Université Pierre et Marie Curie, two big French schools. My Master was in Computer Science, with a Data Science specialization.
 
-I'm a front-end web developer!
+I am finishing a two-year apprenticeship/internship at [Trusted Labs](http://trusted-labs.com/), where I am developing software and improving security attacks using machine learning techniques.
 
-I'm currently making lots of open-source web templates into Jekyll themes so more people can use them. The theme you're looking at, my [Jekyll version](https://github.com/chrisbobbe/jekyll-theme-prologue) of [Prologue by HTML5 UP](https://html5up.net/prologue), has <a href="https://rubygems.org/gems/jekyll-theme-prologue"><span id="download-counter">[unavailable]</span> gem downloads</a>! I also make intuitive user interfaces with Angular and React. I started coding when I was nine and kept it up through college where I did an English degree. My creative and analytical skills might be a great fit for your project, especially if it means taking something old and clunky and making it shiny, responsive, and accessible.
+I really like challenging projects where I can improve my technical skills. I love to solve original problems, I am curious and well-organized, I like to deliver high-quality products.
+
+I am interested about data science opportunities in France, Portugal or Spain.
